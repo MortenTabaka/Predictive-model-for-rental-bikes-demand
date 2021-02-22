@@ -1,4 +1,7 @@
-# Predictive-model-of-rental-bikes-demand-
+Predictive model of rental bikes demand
+
+
+
 
 
 **Relevant paper:**
