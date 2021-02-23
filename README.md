@@ -1,4 +1,4 @@
-**Predictive model of rental bikes demand**
+**Predictive model of the demand for rental bicycles**
 
 
 
