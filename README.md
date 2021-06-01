@@ -5,7 +5,7 @@ Data was collected over 2 years period.
 
 Programming language: Python 3.7
 
-Machine learning library: sklearn
+Machine learning library: scikit-learn
 
 **Relevant paper:**
 Fanaee-T, Hadi, and Gama, Joao, 'Event labeling combining ensemble detectors and background knowledge', Progress in Artificial Intelligence (2013): pp. 1-15, Springer Berlin Heidelberg, [Web Link].
