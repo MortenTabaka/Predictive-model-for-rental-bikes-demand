@@ -4,6 +4,7 @@ Data contains rental count depending on variables such as: weather conditions, d
 Data was collected over 2 years period.
 
 Programming language: Python 3.7
+
 Machine learning library: sklearn
 
 **Relevant paper:**
