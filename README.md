@@ -3,6 +3,13 @@
 Data contains rental count depending on variables such as: weather conditions, day of the year, year, etc..
 Data was collected over 2 years period. Project was focused on finding accurate predictive model for the task. 
 
+Dataset is avaiable here: https://archive.ics.uci.edu/ml/datasets/bike+sharing+dataset
+
+To run models:
+1. Open **Bikes_rental_analysis(1).ipynb** in Jupyter/Colab.
+2. Download dataset and change paths.
+3. Execute code. 
+
 Environment requirements: 
 * Jupyter/Colab
 * Python 3.x
