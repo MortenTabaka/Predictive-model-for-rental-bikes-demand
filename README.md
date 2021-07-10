@@ -7,8 +7,8 @@ Dataset is avaiable here: https://archive.ics.uci.edu/ml/datasets/bike+sharing+d
 
 To run models:
 1. Open **Bikes_rental_analysis(1).ipynb** in Jupyter/Colab.
-2. Download dataset and change paths.
-3. Execute code. 
+2. Download dataset and change paths in the code.
+3. Execute. 
 
 Environment requirements: 
 * Jupyter/Colab
